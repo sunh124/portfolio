@@ -3,7 +3,7 @@
 AI, Computer Vision, Time-series, Manufacturing AI, Robotics 분야의
 연구 및 프로젝트를 정리한 포트폴리오입니다.
 
-👉 [Portfolio PDF](./AI_and_Robotics_Portfolio.pdf)
+👉 [Portfolio PDF](./H_Kim_Portfolio.pdf)
 
 ## Core Skills
 
